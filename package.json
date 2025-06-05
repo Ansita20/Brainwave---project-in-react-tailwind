@@ -1,5 +1,24 @@
 {
+  "name": "brainwave",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Ansita20/Brainwave---project-in-react-tailwind#readme",
+  "bugs": {
+    "url": "https://github.com/Ansita20/Brainwave---project-in-react-tailwind/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ansita20/Brainwave---project-in-react-tailwind.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "dependencies": {
     "react-router-dom": "^7.6.1"
-  }
+  },
+  "devDependencies": {}
 }
